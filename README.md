@@ -40,3 +40,4 @@ This is a simple Python automation project that uses [NewsAPI](https://newsapi.o
 ```bash
 git clone https://github.com/your-username/daily-news-mailer.git
 cd daily-news-mailer
+main.py
